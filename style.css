@@ -1,0 +1,44 @@
+h1 {font-size: 35px;
+    color:ghostwhite;
+    font-family: "Lucida Handwriting";
+    background-color: crimson;
+    width: 300px;
+    padding: 10px;
+    margin: 50px;
+    border: 4px solid black;
+    position: relative;
+    left: 210px;
+    }
+
+img{border-style: dotted;
+    position: relative;
+    padding-left: 50px;
+    left: 320px;}
+
+#primero {font-size: 10px;
+          padding-left: 280px;}
+
+.segundo{border: 4px solid black;
+         background-color: blueviolet;
+         height: 25px;
+         width: 20%;
+         padding-left: 150px;}
+
+main{position: relative;
+     left: 210px;}
+    
+nav{outline-style: outset;
+    outline-color: darkred; 
+    width: 100px;
+    padding: 10px;
+    margin: 50px;
+    position: relative;
+    left: 310px;}
+
+section{position: relative;
+        left: 210px;}
+
+footer{position: relative;
+       left: 210px;}
+         
+
